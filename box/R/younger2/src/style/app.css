@@ -1,0 +1,13 @@
+.nav_home{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    width: 100%;
+    height: 100vh;
+}
+.nav_content{
+    width: 100%;
+}
+.nav_router_view{
+    padding: 0 60px;
+}

@@ -1,0 +1,9 @@
+.headerTab,.list_item{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.list_item_span{
+    text-align: center;
+    width: 12.125%;
+}
